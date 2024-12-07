@@ -1,0 +1,129 @@
+@media screen and (max-width: 425px) {
+    h1 {
+        font-size: 1.5rem;
+        font-weight: 100;
+    }
+    header {
+        background: linear-gradient(rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.9)), url(hero.jpg);
+        height: 80vh;
+    }
+    .first-head {
+        padding: 10px 0 0 15px;
+    }
+    .sing-head {
+        gap: 8px;
+        margin-right: 20px;
+    }
+    .img-head img {
+        height: 80px;
+        width: 120px;
+    }
+    .lang {
+        width: 80px;
+    }
+    .sec-head-1 {
+        margin: 0 30px;
+    }
+    .sec-head-1 h1 {
+        margin-bottom: 20px;
+    }
+    
+    .sec-head-1 h3 {
+        font-size: 1.1rem;
+        /* margin-bottom: 10px; */
+    }
+    
+    .sec-head-1 p {
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+    }
+    .sec-head-2{
+        flex-direction: column;
+    }
+    .sec-head-2 input {
+        padding: 18px 30px;
+        width: 250px;
+    }
+    .sec-box {
+        height: 60vh;
+        flex-direction: column;
+        gap: 0;
+        padding: 10% 8%;
+        text-align: center;
+        
+    }
+    .sec-box-text{
+        margin-top: 15%;
+    }
+    .sec-box-text h1{
+        font-size: 1.8rem;
+        font-weight: 900;
+
+    }
+    .sec-box-text h3{
+        font-size: 1.001rem;
+        
+
+    }
+    .sec-box-img img{
+        height: 48%;
+    }
+    .sec-box-img video{
+        height: 25%;
+        margin: 3rem 0 0 2.5rem;
+        
+    }
+    .sec-box-2{
+        height: 65vh;
+
+    }
+    .sec-box-img-2{
+        margin-top: -35%;
+    }
+
+
+    .mini-img img{
+        width: 36px;
+    }
+    .mini-div{
+        width: 16.5rem;
+        height: 3.7rem;
+        margin: 8.5rem 0 0 1rem;
+        /* margin: auto; */
+    }
+    .sec-box-img-3 img{
+        height: 55%;
+    }
+    .sec-box-img-3 video{
+        height: 19%;
+        margin: 1rem 0 0 5rem;
+    }
+
+    .sec-box-4{
+        height: 70vh;
+    }
+    
+    
+    .fno-box{
+        margin: 0.5rem 3% 0 3%;
+    }
+    .fnoans{
+        /* margin: 1px 10% 0.6rem 10%; */
+        margin: 0.1rem 3% 0 3%;
+        /* max-height: 0;
+        overflow: hidden; */
+    }
+
+    footer{
+        flex-wrap: wrap;
+        
+    }
+
+    .second-head {
+        margin-top: 0;
+    }
+
+
+
+    
+}
