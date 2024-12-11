@@ -4,7 +4,7 @@
         font-weight: 100;
     }
     header {
-        background: linear-gradient(rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.9)), url(hero.jpg);
+        background: linear-gradient(rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.9)), url(asserts/hero.jpg);
         height: 80vh;
     }
     .first-head {
